@@ -48,6 +48,8 @@
     tabindex="-1"
   >
     <!-- Modal Content -->
+    <!-- svelte-ignore a11y_click_events_have_key_events -->
+    <!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
     <div 
       class="bg-white rounded-xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto"
       on:click|stopPropagation
