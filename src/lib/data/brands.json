@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova",
+    "country": "Estados Unidos",
+    "founded_year": 2010,
+    "phoneCount": 8,
+    "logo_url": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=100&h=100&fit=crop&crop=center",
+    "description": "Innovación tecnológica de vanguardia"
+  },
+  {
+    "id": 2,
+    "name": "QuantumPhone",
+    "country": "Corea del Sur",
+    "founded_year": 2005,
+    "phoneCount": 12,
+    "logo_url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=100&h=100&fit=crop&crop=center",
+    "description": "Tecnología cuántica aplicada a dispositivos móviles"
+  },
+  {
+    "id": 3,
+    "name": "NeoMobile",
+    "country": "Japón",
+    "founded_year": 2015,
+    "phoneCount": 6,
+    "logo_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=100&h=100&fit=crop&crop=center",
+    "description": "Diseño futurista y funcionalidad avanzada"
+  },
+  {
+    "id": 4,
+    "name": "EcoTech",
+    "country": "Suecia",
+    "founded_year": 2018,
+    "phoneCount": 4,
+    "logo_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=100&h=100&fit=crop&crop=center",
+    "description": "Tecnología sostenible y ecológica"
+  },
+  {
+    "id": 5,
+    "name": "FlexiCorp",
+    "country": "Alemania",
+    "founded_year": 2012,
+    "phoneCount": 7,
+    "logo_url": "https://images.unsplash.com/photo-1560472355-536de3962603?w=100&h=100&fit=crop&crop=center",
+    "description": "Pantallas flexibles y diseño adaptable"
+  }
+]

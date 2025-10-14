@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova X1 Pro",
+    "brand_name": "TechNova",
+    "brand_id": 1,
+    "description": "El smartphone más avanzado de TechNova con procesador cuántico de última generación, cámara AI de 108MP y batería de grafeno que dura 3 días. Diseñado para profesionales que exigen lo mejor en tecnología móvil.",
+    "release_date": "2024-03-15",
+    "price": 1299.99,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=600&fit=crop&crop=center",
+    "cover_image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=600&fit=crop&crop=center",
+    "company": "TechNova Inc.",
+    "specifications": {
+      "display": "6.8\" OLED 4K 120Hz",
+      "processor": "QuantumCore A17 Pro",
+      "ram": "16GB LPDDR5X",
+      "storage": "512GB UFS 4.0",
+      "camera": "108MP + 50MP + 12MP",
+      "battery": "5000mAh Grafeno",
+      "os": "Android 14 TechNova UI"
+    },
+    "colors": ["Midnight Black", "Cosmic Blue", "Aurora Gold"],
+    "features": ["5G", "Wireless Charging", "Water Resistant", "AI Photography", "Quantum Security"]
+  },
+  {
+    "id": 2,
+    "name": "QuantumPhone Q7 Ultra",
+    "brand_name": "QuantumPhone",
+    "brand_id": 2,
+    "description": "Revolucionario smartphone con tecnología cuántica real. Procesamiento cuántico para IA avanzada, encriptación cuántica y comunicación instantánea. El futuro de la telefonía móvil está aquí.",
+    "release_date": "2024-01-20",
+    "price": 1599.99,
+    "image_url": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400&h=600&fit=crop&crop=center",
+    "cover_image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&h=600&fit=crop&crop=center",
+    "company": "QuantumPhone Technologies",
+    "specifications": {
+      "display": "6.9\" Quantum AMOLED 144Hz",
+      "processor": "Quantum Processor Q7",
+      "ram": "18GB Quantum RAM",
+      "storage": "1TB Quantum Storage",
+      "camera": "200MP Quantum Lens",
+      "battery": "6000mAh Quantum Cell",
+      "os": "QuantumOS 3.0"
+    },
+    "colors": ["Quantum Silver", "Photon Blue", "Electron Black"],
+    "features": ["Quantum Computing", "Quantum Encryption", "Holographic Display", "Quantum Camera", "Instant Sync"]
+  },
+  {
+    "id": 3,
+    "name": "NeoMobile Zen 5G",
+    "brand_name": "NeoMobile",
+    "brand_id": 3,
+    "description": "Diseño minimalista japonés con tecnología zen. Interfaz intuitiva que se adapta a tu estilo de vida, cámara con IA emocional y materiales premium sostenibles. La perfecta armonía entre tecnología y naturaleza.",
+    "release_date": "2024-02-10",
+    "price": 899.99,
+    "image_url": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=400&h=600&fit=crop&crop=center",
+    "cover_image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=800&h=600&fit=crop&crop=center",
+    "company": "NeoMobile Japan",
+    "specifications": {
+      "display": "6.5\" Zen OLED 90Hz",
+      "processor": "Harmony Chip H1",
+      "ram": "12GB LPDDR5",
+      "storage": "256GB UFS 3.1",
+      "camera": "64MP Zen Camera",
+      "battery": "4500mAh Bamboo Cell",
+      "os": "ZenUI 5.0"
+    },
+    "colors": ["Zen White", "Bamboo Green", "Sakura Pink"],
+    "features": ["Zen Mode", "Emotional AI", "Sustainable Materials", "Meditation Apps", "Nature Sounds"]
+  },
+  {
+    "id": 4,
+    "name": "EcoTech Green Pro",
+    "brand_name": "EcoTech",
+    "brand_id": 4,
+    "description": "El primer smartphone 100% sostenible del mundo. Fabricado con materiales reciclados, energía solar integrada y packaging biodegradable. Tecnología avanzada que cuida el planeta.",
+    "release_date": "2024-04-22",
+    "price": 749.99,
+    "image_url": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400&h=600&fit=crop&crop=center",
+    "cover_image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=800&h=600&fit=crop&crop=center",
+    "company": "EcoTech Sustainable Solutions",
+    "specifications": {
+      "display": "6.4\" Eco OLED 60Hz",
+      "processor": "GreenCore E1",
+      "ram": "8GB Recycled RAM",
+      "storage": "128GB Eco Storage",
+      "camera": "48MP Nature Lens",
+      "battery": "4000mAh Solar Cell",
+      "os": "EcoOS 2.0"
+    },
+    "colors": ["Forest Green", "Ocean Blue", "Earth Brown"],
+    "features": ["Solar Charging", "Recycled Materials", "Carbon Neutral", "Eco Apps", "Biodegradable Case"]
+  },
+  {
+    "id": 5,
+    "name": "FlexiCorp Fold X",
+    "brand_name": "FlexiCorp",
+    "brand_id": 5,
+    "description": "Smartphone plegable de tercera generación con pantalla flexible de 360°. Se transforma de teléfono a tablet a smartwatch. Ingeniería alemana de precisión para la máxima versatilidad.",
+    "release_date": "2024-05-08",
+    "price": 1799.99,
+    "image_url": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400&h=600&fit=crop&crop=center",
+    "cover_image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&h=600&fit=crop&center",
+    "company": "FlexiCorp Deutschland",
+    "specifications": {
+      "display": "7.2\" Flexible OLED 120Hz",
+      "processor": "FlexCore F3 Pro",
+      "ram": "16GB Adaptive RAM",
+      "storage": "512GB Flex Storage",
+      "camera": "Triple 50MP Flex Cam",
+      "battery": "5500mAh Flexible Cell",
+      "os": "FlexOS 4.0"
+    },
+    "colors": ["Titanium Gray", "Flex Blue", "Adaptive Silver"],
+    "features": ["360° Folding", "Multi-Mode Display", "Adaptive UI", "Flex Camera", "Precision Engineering"]
+  }
+]
